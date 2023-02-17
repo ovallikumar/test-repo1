@@ -1,3 +1,9 @@
-from hello.java 
-from git client
+class 
+{
+	public static void main ("hello");
+	{
+	 	systemprintln("hello form dev1")
+	}
+}
+
 
